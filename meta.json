@@ -1,0 +1,22 @@
+{
+  "id": "14",
+  "title": "Reloj Digital Discreto",
+  "category": "Digital Electronics",
+  "visibility": "PUBLIC",
+  "domain": ["HARD", "EMB"],
+  "status": {
+    "state": "ACTIVE LABS",
+    "label": "Design-Phase"
+  },
+  "environment": {
+    "os": "Fedora 43",
+    "shell": "fish",
+    "last_update": "2026-06-11 // 14:30 PET"
+  },
+  "links": {
+    "ssh": "git@github.com:MarcosBernardC/reloj_digital_discreto.git",
+    "https": "https://github.com/MarcosBernardC/reloj_digital_discreto"
+  },
+  "stack": ["TTL Lógica Discreta", "KiCad", "Circuit Simulation", "LaTeX"],
+  "description": "Diseño e implementación de un reloj digital cronológico (HH:MM:SS) utilizando contadores síncronos, lógica de desborde discreta y base de tiempo con CI 555."
+}
