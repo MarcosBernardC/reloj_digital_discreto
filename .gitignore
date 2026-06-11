@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+*_autosave*
+build/
+dist/
+.kicad_prl
+fp-info-cache
