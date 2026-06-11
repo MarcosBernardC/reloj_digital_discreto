@@ -5,3 +5,18 @@ build/
 dist/
 .kicad_prl
 fp-info-cache
+
+# SimulIDE - Archivos temporales y de respaldo
+
+sim/**/*.bak
+sim/**/autosave_*
+*.log
+
+# Configuraciones locales de entornos de desarrollo (si aplicara)
+.simulide/
+.workspace/
+.DS_Store
+
+# Archivos de volcado de datos u osciloscopio (si exportas capturas de datos)
+*.csv
+*.txt
