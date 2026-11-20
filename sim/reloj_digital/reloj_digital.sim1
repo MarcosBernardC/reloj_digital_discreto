@@ -596,13 +596,11 @@
 
 <item itemtype="Connector" uid="Connector-406" startpinid="Node-154-2" endpinid="Node-135-1" pointList="384,400,412,400,412,596,384,596" />
 
-<item itemtype="Connector" uid="Connector-410" startpinid="74HC193-17-Q0" endpinid="Node-66-1" pointList="612,396,612,592" />
+<item itemtype="Connector" uid="Connector-410" startpinid="74HC193-17-Q0" endpinid="Node-66-1" pointList="612,396,620,396,620,592,612,592" />
 
 <item itemtype="Connector" uid="Connector-411" startpinid="Node-75-2" endpinid="Node-67-1" pointList="628,404,656,404,656,600,620,600" />
 
 <item itemtype="Connector" uid="Connector-412" startpinid="74HC193-17-Q3" endpinid="Node-74-0" pointList="612,420,644,420" />
-
-<item itemtype="Connector" uid="Connector-414" startpinid="74HC193-17-Q2" endpinid="Node-68-1" pointList="612,412,628,412,628,608" />
 
 <item itemtype="Connector" uid="Connector-401" startpinid="Node-162-2" endpinid="Node-134-0" pointList="424,620,424,628" />
 
@@ -1173,5 +1171,7 @@
 <item itemtype="Connector" uid="Connector-1093" startpinid="Node-301-1" endpinid="74HC193-286-CPu" pointList="-276,476,-276,484,-596,484,-596,444,-564,444" />
 
 <item itemtype="Connector" uid="Connector-1094" startpinid="Lm555-1-ePin2" endpinid="74HC193-17-CPu" pointList="640,236,640,328,524,328,524,444,564,444" />
+
+<item itemtype="Connector" uid="Connector-414" startpinid="74HC193-17-Q2" endpinid="Node-68-1" pointList="612,412,628,412,628,608" />
 
 </circuit>
